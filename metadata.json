@@ -1,0 +1,5 @@
+{
+  "name": "ZenTodo",
+  "description": "A clean, minimalist mobile-first todo application with smooth animations and intuitive task management.",
+  "requestFramePermissions": []
+}
